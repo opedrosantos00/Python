@@ -1,2 +1,2 @@
 # Python
-Primeiros passos, analisando dados com Pandas e Matplotib
+:computer: Primeiros passos, analisando dados com Pandas e Matplotib
